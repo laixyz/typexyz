@@ -9,6 +9,7 @@ import (
 type Date struct {
 	Time time.Time
 }
+
 func NewDate(params ...int) Date{
 	var t time.Time
 	var year,month,day int

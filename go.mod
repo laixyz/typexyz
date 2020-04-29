@@ -1,3 +1,3 @@
-module github.com/laixyz/typexyz
+module github.com/laixyz
 
 go 1.14
